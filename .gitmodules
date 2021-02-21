@@ -1,0 +1,3 @@
+[submodule "gatsby-intermediate"]
+	path = gatsby-intermediate
+	url = https://github.com/jlengstorf/gatsby-intermediate.git
